@@ -1,6 +1,6 @@
 # Rock Paper Scissors 🎮
 
-A simple **Rock-Paper-Scissors game** built using **HTML, CSS, and JavaScript**.  
+A simple **Rock-Paper-Scissors game** built using **HTML5, CSS3, and JavaScript**.  
 The game keeps track of your wins, losses, and ties using `localStorage`, so your score persists even after refreshing the page.
 
 ---
