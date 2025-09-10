@@ -56,9 +56,7 @@ Open 11-rock-paper-scissors.html in your browser.
 🛠️ Technologies Used
 
 HTML5
-
 CSS3
-
 JavaScript (ES6)
 
 
